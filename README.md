@@ -1,5 +1,6 @@
 # PyProcessing
-PyProcessing is a PyGame wrapper for easily creating graphical and interactive programs in Python in a simple format that's very similar to Processing. 
+PyProcessing is a PyGame wrapper for easily creating graphical and interactive programs in Python in a simple format that's very similar to Processing:
+https://processing.org/ 
 
 The PyProcessing class implements the program flow and event handling similar to Processing programs through PyGame code and provides implementations of many common Processing functions for things like creating different shapes and displaying images and text.
 
