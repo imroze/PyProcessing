@@ -14,6 +14,7 @@ A Python implementation of the common PVector class in Processing is also includ
 1. Install pygame using "pip install pygame"
 2. Clone this repository. 
 3. Run example.py script in repo, using "python example.py"
+4. Click on different locations on window
 
 
 ![alt text](https://github.com/imroze/PyProcessing/blob/main/repo_images/pyproc.PNG?raw=true)
